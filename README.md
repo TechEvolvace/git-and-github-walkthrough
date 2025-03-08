@@ -1,1 +1,2 @@
-# git-and-github-walkthrough
+# Git and Git Walkthrough
+I envisioned a walkthrough that helps guide new programmers to getting started with Git and GitHub by using visually dynamic and interactive animations to help model what each action with Git and GitHub does. 
