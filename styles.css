@@ -1,8 +1,16 @@
+.bold {
+    font-weight: 900;
+}
+
 .announcement{
     color: red;
     font-size: 16px;
 }
 
-.bold {
-    font-weight: 900;
+.announcement-content{
+    margin: 0 10%;
+    background-color: rgb(79, 242, 223);
 }
+
+
+
