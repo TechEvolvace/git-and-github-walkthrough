@@ -12,5 +12,9 @@
     background-color: rgb(79, 242, 223);
 }
 
+.welcome-message{
+    display: flex;
+    justify-content: center;
+}
 
 
